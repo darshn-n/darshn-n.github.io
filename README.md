@@ -4,7 +4,7 @@ A new Flutter Portfolio.
 
 
 # It's Live!
-[Click Here](https://darshn-n.github.io/#/)
+[Press 🍑](https://darshn-n.github.io/#/)
 
 
 ## Installation
