@@ -4,7 +4,8 @@ A new Flutter Portfolio.
 
 
 # It's Live!
-[Spank here 🍑](https://darshn-n.github.io/#/)
+
+<a href="https://darshn-n.github.io/" target="_blank">Spank here 🍑</a>
 
 
 ## Installation
